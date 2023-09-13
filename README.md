@@ -28,6 +28,3 @@ https://github.com/anjany/verse
 然后，将这两个数据集合并到它们的训练、验证和测试文件夹中。下一步是读取CT扫描图像，并将CT扫描图像的每个切片转换为一系列PNG原始图像和遮罩。后来，使用这个Github仓库中的UNet模型，并训练了一个UNet模型。
 
 https://github.com/milesial/Pytorch-UNet
-————————————————
-版权声明：本文为CSDN博主「woshicver」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/woshicver/article/details/124071421
